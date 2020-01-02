@@ -12,7 +12,7 @@
     <!-- NAVBAR -->
     <?php include "nav.php" ?>
 
-    <!-- home -->
+    <!-- tentang -->
     <section class="content">
         <div class="container">
             <div class="row">
@@ -27,42 +27,21 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="../sakaindo/assets/SAKAI/Slideshow/1.jpg" class="d-block w-100" alt="..." style="border-radius: 5%;">
+                                    <img src="https://dummyimage.com/vga" class="d-block w-100" alt="..." style="border-radius: 5%;">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h5>First slide label</h5>
                                         <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="../sakaindo/assets/SAKAI/Slideshow/2.jpeg" class="d-block w-100" alt="..." style="border-radius: 5%;">
+                                    <img src="https://dummyimage.com/vga" class="d-block w-100" alt="..." style="border-radius: 5%;">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h5>Second slide label</h5>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="../sakaindo/assets/SAKAI/Slideshow/3.jpeg" class="d-block w-100" alt="..." style="border-radius: 5%;">
-                                    <div class="carousel-caption d-none d-md-block">
-                                        <h5>Third slide label</h5>
-                                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-                                    </div>
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="../sakaindo/assets/SAKAI/Slideshow/4.jpeg" class="d-block w-100" alt="..." style="border-radius: 5%;">
-                                    <div class="carousel-caption d-none d-md-block">
-                                        <h5>Third slide label</h5>
-                                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-                                    </div>
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="../sakaindo/assets/SAKAI/Slideshow/6.jpeg" class="d-block w-100" alt="..." style="border-radius: 5%;">
-                                    <div class="carousel-caption d-none d-md-block">
-                                        <h5>Third slide label</h5>
-                                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-                                    </div>
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="../sakaindo/assets/SAKAI/Slideshow/7.jpeg" class="d-block w-100" alt="..." style="border-radius: 5%;">
+                                    <img src="https://dummyimage.com/vga" class="d-block w-100" alt="..." style="border-radius: 5%;">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h5>Third slide label</h5>
                                         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
@@ -80,7 +59,6 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Produk -->
                 <?php include "produk.php" ?>
             </div>
