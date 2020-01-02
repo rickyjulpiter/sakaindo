@@ -1,3 +1,12 @@
+body{
+	color: #343A40;
+}
+
+a:hover {
+	color:#6CCD0D;
+	transition: 0.3s;
+}
+
 .nav-pintar ul {
     color: black;
 }
@@ -64,4 +73,39 @@
 
 .footer p {
     text-align: left;
+}
+
+.footer-text{
+	color: #707070;
+}
+
+.footer-text a {
+	color: #707070;
+	text-decoration: none;
+}
+
+.footer-text a:hover {
+	color:#6CCD0D;
+	transition: 0.3s;
+}
+
+.kopirek {
+	text-align: center !important;
+	font-size: 0.8rem;
+}
+
+.kopirek2:hover {
+	color: #6CCD0D;
+	transition: 0.3s;
+}
+.logo {
+    width: 100px;
+    height: 10%;
+}
+
+.judulTeks {
+	text-align: center; 
+	margin-bottom: 2rem; 
+	border-bottom: 3px solid #343A40; 
+	padding-bottom: 2rem;
 }
