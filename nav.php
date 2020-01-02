@@ -1,18 +1,18 @@
-    <div class="container" style="background-color:#343a40">
+    <div class="navpintar container">
         <nav class="navbar navbar-expand-lg">
-            <a class="navbar-brand" href="index" style="color:white">SAKAI</a>
+            <a class="navbar-brand" href="#">SAKAI</a>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a href="index" class="nav-link" style="color:white">HOME</a>
+                    <a href="index" class="nav-link">Home</a>
                 </li>
                 <li class="navbar-item">
-                    <a href="tentang" class="nav-link" style="color:white">TENTANG KAMI</a>
+                    <a href="tentang" class="nav-link">Tentang Kami</a>
                 </li>
                 <li class="navbar-item">
-                    <a href="layanan" class="nav-link" style="color:white">LAYANAN</a>
+                    <a href="layanan" class="nav-link">Layanan</a>
                 </li>
                 <li class="navbar-item">
-                    <a href="kontak" class="nav-link" style="color:white">KONTAK KAMI</a>
+                    <a href="kontak" class="nav-link">Kontak Kami</a>
                 </li>
             </ul>
         </nav>
