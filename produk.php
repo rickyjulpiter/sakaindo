@@ -1,11 +1,6 @@
 <div class="col-md-3" id="rcorners4">
-<<<<<<< HEAD
-    <h2 style="text-align: center; font-size: 1rem;font-weight:bold">Produk Kami</h2>
-    <div class="row">
-=======
     <h2 style="text-align: center; font-size: 1.3rem; font-weight: bold; padding-bottom:25px;">Produk Kami</h2>
     <div class="row" style="padding-bottom:25px;">
->>>>>>> b58767fe3cecf73f3d3f0ab8a3afad3ed5bf08f0
         <div class="col-md-6">
             <img src="../sakaindo/assets/SAKAI/nama produk/ASSET 1.png" class="d-block w-100" alt="..." style="border-radius: 5%;">
             <h4 style="text-align: center; font-size: 1.1rem;">nama produk</h4>
