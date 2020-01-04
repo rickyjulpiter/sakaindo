@@ -6,6 +6,15 @@
     a {
         color: black;
     }
+
+    .menulink {
+        font-size: 16px;
+        font-family: adobe-clean, sans-serif;
+        font-weight: 400;
+        line-height: 18px;
+    }
+
+    .d-block {}
 </style>
 
 <body>

@@ -1,5 +1,5 @@
 <div class="col-md-3" id="rcorners4">
-    <h2 style="text-align: center; font-size: 1rem;">Produk Kami</h2>
+    <h2 style="text-align: center; font-size: 1rem;font-weight:bold">Produk Kami</h2>
     <div class="row">
         <div class="col-md-6">
             <img src="../sakaindo/assets/SAKAI/nama produk/ASSET 1.png" class="d-block w-100" alt="..." style="border-radius: 5%;">
