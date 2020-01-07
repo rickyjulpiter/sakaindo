@@ -16,8 +16,7 @@
     <section class="content">
         <div class="container">
             <div class="row">
-				<div style="width: 2%;"></div>
-                <div id="rcornersBox" class="col-md-8">
+                <div id="rcorners4" class="col-md-8" style="margin-right:15px;">
                     <h2 class="judulTeks">Layanan Kami</h2>
                     <p style="text-align:center;">Bagi kami pelayanan kepada anda adalah hal utama, oleh karena
                         itu kami memiliki beberapa layanan bagi anda seperti</p>
@@ -39,7 +38,6 @@
                         </div>
                     </div>
                 </div>
-				<div style="width: 6%;"></div>
                 <!-- Produk -->
                 <?php include "produk.php" ?>
             </div>

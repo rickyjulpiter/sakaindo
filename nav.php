@@ -4,7 +4,7 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <a class="navbar-brand" href="index">
-                <img class="d-inline-block align-top logo" src="../sakaindo/assets/SAKAI/logo sakai/sakai logo.png" height="60px">
+                <img class="d-inline-block align-top logo" src="../sakaindo/assets/SAKAI/logo sakai/sakai logo.png">
             </a>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
