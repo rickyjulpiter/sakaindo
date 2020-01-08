@@ -1,4 +1,14 @@
-<div class="col-md-3" id="rcorners4">
+<?php
+$status = "";
+if (isset($page)) {
+    if ($page == "kontak") {
+        $status = "style='height:600px'";
+    } else {
+        $status = "";
+    }
+}
+?>
+<div class="col-md-3" id="rcorners4" <?= $status ?>>
     <h2 style="text-align: center; font-size: 1.3rem; font-weight: bold; padding-bottom:25px;">Produk Kami</h2>
     <div class="row" style="padding-bottom:25px;">
         <div class="col-md-6">
