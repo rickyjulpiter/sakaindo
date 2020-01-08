@@ -2,6 +2,7 @@
 <html lang="en">
 
 <?php include "head.php" ?>
+
 <style>
     a {
         color: black;
