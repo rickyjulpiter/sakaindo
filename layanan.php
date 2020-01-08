@@ -16,30 +16,30 @@
     <section class="content">
         <div class="container">
             <div class="row">
-				<div style="width: 2%;"></div>
-                <div id="rcornersBox" class="col-md-8">
+				<!--<div style="width: 2%;"></div>-->
+                <div id="rcornersBox" class="col-md-9">
                     <h2 class="judulTeks">Layanan Kami</h2>
                     <p style="text-align:center;">Bagi kami pelayanan kepada anda adalah hal utama, oleh karena
                         itu kami memiliki beberapa layanan bagi anda seperti</p>
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="../sakaindo/assets/SAKAI/Slideshow/2.jpg" class="d-block w-100 h-100" alt="..." style="border-radius: 50%;">
+                            <img src="../sakaindo/assets/SAKAI/Slideshow/2.jpg" class="d-block gambarLayanan" alt="..." style="border-radius: 50%;">
                             <h4 style="text-align: center;">Layanan 1</h4>
                             <p style="text-align: center;">deskripsi layanan</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="../sakaindo/assets/SAKAI/Slideshow/3.jpg" class="d-block w-100 h-100" alt="..." style="border-radius: 50%;">
+                            <img src="../sakaindo/assets/SAKAI/Slideshow/3.jpg" class="d-block gambarLayanan" alt="..." style="border-radius: 50%;">
                             <h4 style="text-align: center;">Layanan 2</h4>
                             <p style="text-align: center;">deskripsi layanan</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="../sakaindo/assets/SAKAI/Slideshow/7.jpg" class="d-block w-100 h-100" alt="..." style="border-radius: 50%;">
+                            <img src="../sakaindo/assets/SAKAI/Slideshow/7.jpg" class="d-block gambarLayanan" alt="..." style="border-radius: 50%;">
                             <h4 style="text-align: center;">Layanan 3</h4>
                             <p style="text-align: center;">deskripsi layanan</p>
                         </div>
                     </div>
                 </div>
-				<div style="width: 6%;"></div>
+				<!--<div style="width: 6%;"></div>-->
                 <!-- Produk -->
                 <?php include "produk.php" ?>
             </div>
