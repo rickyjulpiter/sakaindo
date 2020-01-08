@@ -1,5 +1,13 @@
-body {
-    color: #343A40;
+
+    .menulink {
+        font-size: 16px;
+        font-family: adobe-clean, sans-serif;
+        font-weight: 400;
+        line-height: 18px;
+    }
+
+body{
+	color: #343A40;
 }
 
 a:hover {
@@ -21,7 +29,7 @@ a:hover {
 }
 
 .content {
-    margin-top: 20px;
+    margin-top: 8%;
     margin-bottom: 50px;
 }
 
@@ -108,19 +116,36 @@ a:hover {
 }
 
 .judulTeks {
+	text-align: center; 
+	margin-bottom: 2rem; 
+	border-bottom: 3px solid #343A40; 
+	padding-bottom: 2rem;
+}
+
+.gambarLayanan{
+	margin: auto;
+	width: 80%;
+	height: 90%;
+}
+
+.capGambar {
+	top: 60%;
+}
+
+.desGambar {
+	top: 70%;
+	text-align: justify;
+}
+
+.capGambar, .desGambar {
+	position: absolute;
+	left: 5%;
+	width: 90%;
+	color: #FFF;
+}
+=======
     text-align: center;
     margin-bottom: 2rem;
     /* border-bottom: 3px solid #343A40; */
     padding-bottom: 2rem;
-}
-
-a {
-    color: black;
-}
-
-.menulink {
-    font-size: 16px;
-    font-family: adobe-clean, sans-serif;
-    font-weight: 400;
-    line-height: 18px;
 }

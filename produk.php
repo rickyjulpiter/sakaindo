@@ -8,7 +8,8 @@ if (isset($page)) {
     }
 }
 ?>
-<div class="col-md-3" id="rcorners4" <?= $status ?>>
+<div class="col-md-3" id="rcorners4" style="height: 548.484px;" <?= $status ?>>
+
     <h2 style="text-align: center; font-size: 1.3rem; font-weight: bold; padding-bottom:25px;">Produk Kami</h2>
     <div class="row" style="padding-bottom:25px;">
         <div class="col-md-6">

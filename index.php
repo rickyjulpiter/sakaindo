@@ -3,6 +3,12 @@
 
 <?php include "head.php" ?>
 
+<style>
+    a {
+        color: black;
+    }
+</style>
+
 <body>
     <!-- NAVBAR -->
     <?php include "nav.php" ?>
