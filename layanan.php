@@ -16,23 +16,23 @@
     <section class="content">
         <div class="container">
             <div class="row">
-                <div id="rcorners4" class="col-md-8" style="margin-right:15px;">
+                <div id="rcorners4" class="col-md-8" style="margin-right:15px;margin-top:80px">
                     <h2 class="judulTeks">Layanan Kami</h2>
-                    <p style="text-align:center;">Bagi kami pelayanan kepada anda adalah hal utama, oleh karena
+                    <p style="text-align:center;margin-top:-20px;">Bagi kami pelayanan kepada anda adalah hal utama, oleh karena
                         itu kami memiliki beberapa layanan bagi anda seperti</p>
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="../sakaindo/assets/SAKAI/Slideshow/2.jpg" class="d-block gambarLayanan" alt="..." style="border-radius: 50%;">
+                            <img src="../sakaindo/assets/SAKAI/Slideshow/2.jpg" class="d-block gambarLayanan center" alt="..." style="border-radius: 50%;width:150px;margin:auto;">
                             <h4 style="text-align: center;">Layanan 1</h4>
                             <p style="text-align: center;">deskripsi layanan</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="../sakaindo/assets/SAKAI/Slideshow/3.jpg" class="d-block gambarLayanan" alt="..." style="border-radius: 50%;">
+                            <img src="../sakaindo/assets/SAKAI/Slideshow/3.jpg" class="d-block gambarLayanan center" alt="..." style="border-radius: 50%;width:150px;margin:auto;">
                             <h4 style="text-align: center;">Layanan 2</h4>
                             <p style="text-align: center;">deskripsi layanan</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="../sakaindo/assets/SAKAI/Slideshow/7.jpg" class="d-block gambarLayanan" alt="..." style="border-radius: 50%;">
+                            <img src="../sakaindo/assets/SAKAI/Slideshow/7.jpg" class="d-block gambarLayanan center" alt="..." style="border-radius: 50%;width:150px;margin:auto;">
                             <h4 style="text-align: center;">Layanan 3</h4>
                             <p style="text-align: center;">deskripsi layanan</p>
                         </div>

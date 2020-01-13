@@ -18,20 +18,22 @@
         <div class="container">
             <div class="row">
                 <div style="width: 3%"></div>
-                <div id="rcorners4" class="col-md-8" style="margin-right:10px">
+                <div id="rcorners4" class="col-md-8" style="margin-right:10px;margin-top:80px">
                     <div class="row">
                         <div class="col-md-12 center">
                             <h2 class="judulTeks">Hubungi Kami</h2>
                             <div class="row">
-                                <div class="col-md-6">
+                                <div class="col-md-1"></div>
+                                <div class="col-md-4">
                                     <h5 style="text-align: center;">Kontak Kami :</h5>
                                 </div>
-                                <div class="col-md-6">
-                                    <h5 style="text-align: center;">Alamat Kami :</h5>
+                                <div class="col-md-4">
+                                    <h5 style="text-align: center;">Lokasi Kami :</h5>
                                 </div>
+                                <div class="col-md-1"></div>
                             </div>
                             <div class="row">
-                                <div class="col-md-6" id="rcorners4">
+                                <div class="col-md-5" id="rcorners5" style="margin-left: 25px;margin-right:10px;">
                                     <div class="container">
                                         <table style="text-align: left;">
                                             <tr>
@@ -47,7 +49,7 @@
                                         </table>
                                     </div>
                                 </div>
-                                <div class="col-md-6" id="rcorners4">
+                                <div class="col-md-6" id="rcorners5" style="margin-right: -50px">
                                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d248.88091604102618!2d98.66439641541231!3d3.5656838419155186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30313026b394870d%3A0xe6c1abd3e74ad2b4!2sJl.%20Karya%20Sejati%20No.144%2C%20Polonia%2C%20Kec.%20Medan%20Polonia%2C%20Kota%20Medan%2C%20Sumatera%20Utara%2020157!5e0!3m2!1sid!2sid!4v1577977788579!5m2!1sid!2sid" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                                 </div>
                             </div>
@@ -56,7 +58,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <p style="font-size: 0.9rem; text-align: center; margin:2rem 2rem;">
-                                Atau hubungi kami melalui fitur pengirim pesan berikut :
+                                <b>Atau hubungi kami melalui fitur pengirim pesan berikut :</b>
                             </p>
 
                             <form style="font-size: 0.9rem;">

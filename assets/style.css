@@ -1,13 +1,12 @@
+.menulink {
+    font-size: 16px;
+    font-family: adobe-clean, sans-serif;
+    font-weight: 400;
+    line-height: 18px;
+}
 
-    .menulink {
-        font-size: 16px;
-        font-family: adobe-clean, sans-serif;
-        font-weight: 400;
-        line-height: 18px;
-    }
-
-body{
-	color: #343A40;
+body {
+    color: #343A40;
 }
 
 a:hover {
@@ -41,6 +40,20 @@ a:hover {
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     border-radius: 20px;
+    /* box-shadow */
+    -webkit-box-shadow: rgba(0, 0, 0, 0.8) 0px 0 10px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.8) 0 0 10px;
+    box-shadow: rgba(183, 183, 183, 0.8) 0 0 10px;
+}
+
+#rcorners5 {
+    background-color: #fff;
+    padding: 15px;
+    text-align: center;
+    /* border-radius */
+    /* -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px; */
     /* box-shadow */
     -webkit-box-shadow: rgba(0, 0, 0, 0.8) 0px 0 10px;
     -moz-box-shadow: rgba(0, 0, 0, 0.8) 0 0 10px;
@@ -116,36 +129,37 @@ a:hover {
 }
 
 .judulTeks {
-	text-align: center; 
-	margin-bottom: 2rem; 
-	border-bottom: 3px solid #343A40; 
-	padding-bottom: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    border-bottom: 3px solid #343A40;
+    padding-bottom: 2rem;
 }
 
-.gambarLayanan{
-	margin: auto;
-	width: 80%;
-	height: 90%;
+.gambarLayanan {
+    margin: auto;
+    width: 80%;
+    height: 90%;
 }
 
 .capGambar {
-	top: 60%;
+    top: 60%;
 }
 
 .desGambar {
-	top: 70%;
-	text-align: justify;
+    top: 70%;
+    text-align: justify;
 }
 
-.capGambar, .desGambar {
-	position: absolute;
-	left: 5%;
-	width: 90%;
-	color: #FFF;
+.capGambar,
+.desGambar {
+    position: absolute;
+    left: 5%;
+    width: 90%;
+    color: #FFF;
 }
-=======
-    text-align: center;
-    margin-bottom: 2rem;
-    /* border-bottom: 3px solid #343A40; */
-    padding-bottom: 2rem;
+
+=======text-align: center;
+margin-bottom: 2rem;
+/* border-bottom: 3px solid #343A40; */
+padding-bottom: 2rem;
 }

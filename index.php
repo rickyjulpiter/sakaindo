@@ -17,7 +17,7 @@
     <section class="content">
         <div class="container">
             <div class="row">
-                <div class="col-md-9">
+                <div class="col-md-9" style="margin-top: 80px">
                     <div class="bd-example">
                         <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
                             <ol class="carousel-indicators">
