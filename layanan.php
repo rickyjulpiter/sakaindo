@@ -22,17 +22,17 @@
                         itu kami memiliki beberapa layanan bagi anda seperti</p>
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="../sakaindo/assets/SAKAI/Slideshow/2.jpg" class="d-block w-100 h-100" alt="..." style="border-radius: 50%;">
+                            <img src="../sakaindo/assets/SAKAI/Slideshow/2.jpg" class="d-block gambarLayanan" alt="..." style="border-radius: 50%;">
                             <h4 style="text-align: center;">Layanan 1</h4>
                             <p style="text-align: center;">deskripsi layanan</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="../sakaindo/assets/SAKAI/Slideshow/3.jpg" class="d-block w-100 h-100" alt="..." style="border-radius: 50%;">
+                            <img src="../sakaindo/assets/SAKAI/Slideshow/3.jpg" class="d-block gambarLayanan" alt="..." style="border-radius: 50%;">
                             <h4 style="text-align: center;">Layanan 2</h4>
                             <p style="text-align: center;">deskripsi layanan</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="../sakaindo/assets/SAKAI/Slideshow/7.jpg" class="d-block w-100 h-100" alt="..." style="border-radius: 50%;">
+                            <img src="../sakaindo/assets/SAKAI/Slideshow/7.jpg" class="d-block gambarLayanan" alt="..." style="border-radius: 50%;">
                             <h4 style="text-align: center;">Layanan 3</h4>
                             <p style="text-align: center;">deskripsi layanan</p>
                         </div>
