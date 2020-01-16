@@ -124,11 +124,12 @@ a:hover {
 }
 
 .capGambar {
-	top: 60%;
+	top: 24%;
+	text-align: center;
 }
 
 .desGambar {
-	top: 70%;
+	top: 36%;
 	text-align: justify;
 }
 
@@ -136,5 +137,5 @@ a:hover {
 	position: absolute;
 	left: 5%;
 	width: 90%;
-	color: #FFF;
+	color: #343A40;
 }

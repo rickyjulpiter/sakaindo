@@ -18,7 +18,7 @@
             <div class="row">
 				<div class="col-md-9">
 					<div class="bd-example">
-						<img src="../sakaindo/assets/SAKAI/Slideshow/2.jpg" class="d-block w-100" alt="..." style="border-radius: 5%; -webkit-filter: brightness(50%);"/>
+						<img src="../sakaindo/assets/SAKAI/bgBox.jpg" class="d-block w-100" alt="..." style="border-radius: 5%;"/>
 						<h5 class="capGambar">Tentang Kami</h5>
 						<p class="desGambar">
 							Kami adalah yang terdepan dalam pengolahan besi, tembaga dan logam lainnya. 
