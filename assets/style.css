@@ -142,7 +142,6 @@ a:hover {
 }
 
 .capGambar {
-<<<<<<< HEAD
 	top: 24%;
 	text-align: center;
 }
@@ -157,26 +156,4 @@ a:hover {
 	left: 5%;
 	width: 90%;
 	color: #343A40;
-=======
-    top: 60%;
-}
-
-.desGambar {
-    top: 70%;
-    text-align: justify;
-}
-
-.capGambar,
-.desGambar {
-    position: absolute;
-    left: 5%;
-    width: 90%;
-    color: #FFF;
->>>>>>> 3ecb681c82e56921d04593b48ccfd1413c6f1f08
-}
-
-=======text-align: center;
-margin-bottom: 2rem;
-/* border-bottom: 3px solid #343A40; */
-padding-bottom: 2rem;
 }
