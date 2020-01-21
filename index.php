@@ -1,7 +1,8 @@
 <!doctype html>
 <html lang="en">
 
-<?php include "head.php" ?>
+<?php include "head.php";
+$pages = "home" ?>
 
 <style>
     a {
@@ -17,7 +18,7 @@
     <section class="content">
         <div class="container">
             <div class="row">
-                <div class="col-md-9" style="margin-top: 80px">
+                <div class="col-md-9" style="margin-top: 15px">
                     <div class="bd-example">
                         <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
                             <ol class="carousel-indicators">

@@ -1,7 +1,8 @@
 <!doctype html>
 <html lang="en">
 
-<?php include "head.php" ?>
+<?php include "head.php";
+$pages = "tentang" ?>
 <style>
     a {
         color: black;
@@ -10,24 +11,25 @@
 
 <body>
     <!-- NAVBAR -->
-    <?php include "nav.php" ?>
+    <?php include "nav.php";
+    $pages = "tentang" ?>
 
     <!-- tentang -->
     <section class="content">
         <div class="container">
             <div class="row">
-				<div class="col-md-9" style="margin-top: 80px;">
-					<div class="bd-example">
-						<img src="../sakaindo/assets/SAKAI/bgBox.jpg" class="d-block w-100" alt="..." style="border-radius: 5%;"/>
-						<h5 class="capGambar">Tentang Kami</h5>
-						<p class="desGambar">
-							Kami adalah yang terdepan dalam pengolahan besi, tembaga dan logam lainnya. 
-							Berpengalaman selama 30 tahun dalam mengolah logam menjadikan kami yang terdepan 
-							juga dalam mengolah sawit karena titik leleh sawit lebih rendah dibandingkan logam.
-						</p>
-					</div>
-				</div>
-				<!--
+                <div class="col-md-9" style="margin-top: 15px;">
+                    <div class="bd-example">
+                        <img src="../sakaindo/assets/SAKAI/bgBox.jpg" class="d-block w-100" alt="..." style="border-radius: 5%;" />
+                        <h5 class="capGambar">Tentang Kami</h5>
+                        <p class="desGambar">
+                            Kami adalah yang terdepan dalam pengolahan besi, tembaga dan logam lainnya.
+                            Berpengalaman selama 30 tahun dalam mengolah logam menjadikan kami yang terdepan
+                            juga dalam mengolah sawit karena titik leleh sawit lebih rendah dibandingkan logam.
+                        </p>
+                    </div>
+                </div>
+                <!--
                 <div class="col-md-9">
                     <div class="bd-example">
                         <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">

@@ -1,24 +1,27 @@
 <!doctype html>
 <html lang="en">
 
-<?php include "head.php" ?>
+<?php include "head.php";
+$pages = "layanan";
+?>
 <style>
     a {
         color: black;
     }
 </style>
+<?php var_dump($page) ?>
 
 <body>
     <!-- NAVBAR -->
     <?php include "nav.php" ?>
 
     <!-- layanan -->
-    <section class="content">
+    <section class="content" style="margin-top:15px">
         <div class="container">
             <div class="row">
-                <div id="rcorners4" class="col-md-8" style="margin-right:15px;margin-top:80px">
-                    <h2 class="judulTeks">Layanan Kami</h2>
-                    <p style="text-align:center;margin-top:-20px;">Bagi kami pelayanan kepada anda adalah hal utama, oleh karena
+                <div id="rcorners4" class="col-md-8" style="margin-right:15px;margin-top:15px">
+                    <h2 class="judulTeks" style="border-radius: 20px 20px 0px 0px;background-color: #c3c3c3;margin-right: -15px; margin-top: -15px;padding-top: 15px;padding-bottom: 15px;margin-left: -15px;">Layanan Kami</h2>
+                    <p style="text-align:center;margin-top:20px;">Bagi kami pelayanan kepada anda adalah hal utama, oleh karena
                         itu kami memiliki beberapa layanan bagi anda seperti</p>
                     <div class="row">
                         <div class="col-md-4">
