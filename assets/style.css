@@ -1,3 +1,19 @@
+.menulink {
+    font-size: 16px;
+    font-family: adobe-clean, sans-serif;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+body {
+    color: #343A40;
+}
+
+a:hover {
+    color: #6CCD0D;
+    transition: 0.3s;
+}
+
 .nav-pintar ul {
     color: black;
 }
@@ -12,7 +28,7 @@
 }
 
 .content {
-    margin-top: 20px;
+    margin-top: 8%;
     margin-bottom: 50px;
 }
 
@@ -30,9 +46,23 @@
     box-shadow: rgba(183, 183, 183, 0.8) 0 0 10px;
 }
 
-.navpintar {
+#rcorners5 {
     background-color: #fff;
     padding: 15px;
+    text-align: center;
+    /* border-radius */
+    /* -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px; */
+    /* box-shadow */
+    -webkit-box-shadow: rgba(0, 0, 0, 0.8) 0px 0 10px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.8) 0 0 10px;
+    box-shadow: rgba(183, 183, 183, 0.8) 0 0 10px;
+}
+
+.navpintar {
+    background-color: #fff;
+    padding: 0px;
     text-align: center;
     /* border-radius */
     /* -webkit-border-radius: 20px; */
@@ -42,7 +72,9 @@
     -webkit-box-shadow: rgba(0, 0, 0, 0.8) 0px 0 10px;
     -moz-box-shadow: rgba(0, 0, 0, 0.8) 0 0 10px;
     box-shadow: rgba(183, 183, 183, 0.8) 0 0 10px;
+
 }
+
 
 .footer {
     background-color: #fff;
@@ -65,3 +97,70 @@
 .footer p {
     text-align: left;
 }
+
+.footer-text {
+    color: #707070;
+}
+
+.footer-text a {
+    color: #707070;
+    text-decoration: none;
+}
+
+.footer-text a:hover {
+    color: #6CCD0D;
+    transition: 0.3s;
+}
+
+.kopirek {
+    text-align: center !important;
+    font-size: 0.8rem;
+}
+
+.kopirek2:hover {
+    color: #6CCD0D;
+    transition: 0.3s;
+}
+
+.logo {
+    width: 150px;
+    height: 10%;
+
+}
+
+.judulTeks {
+    text-align: center;
+    margin-bottom: 2rem;
+    border-bottom: 3px solid #343A40;
+    padding-bottom: 2rem;
+}
+
+.gambarLayanan {
+    margin: auto;
+    width: 80%;
+    height: 90%;
+}
+
+.capGambar {
+    top: 24%;
+    text-align: center;
+}
+
+.desGambar {
+    top: 36%;
+    text-align: justify;
+}
+
+.capGambar,
+.desGambar {
+    position: absolute;
+    left: 5%;
+    width: 90%;
+    color: #343A40;
+}
+
+/* 
+.navbar-nav>li {
+    float: left;
+    position: relative;
+} */

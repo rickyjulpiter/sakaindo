@@ -1,12 +1,15 @@
 <!doctype html>
 <html lang="en">
 
-<?php include "head.php" ?>
+<?php include "head.php";
+$pages = "layanan";
+?>
 <style>
     a {
         color: black;
     }
 </style>
+
 
 <body>
     <!-- NAVBAR -->
@@ -16,28 +19,31 @@
     <section class="content">
         <div class="container">
             <div class="row">
-                <div class="col-md-8">
-                    <h2 style="text-align: center;">Produk Kami</h2>
-                    <p style="text-align:center;">Bagi kami pelayanan kepada anda adalah hal utama, oleh karena
-                        itu kami memiliki beberapa layanan bagi anda seperti</p>
-                    <div class="row">
-                        <div class="col-md-4">
-                            <img src="https://dummyimage.com/vga" class="d-block w-100" alt="..." style="border-radius: 50%;">
-                            <h4 style="text-align: center;">nama produk</h4>
-                            <p style="text-align: center;">deskripsi produk</p>
-                        </div>
-                        <div class="col-md-4">
-                            <img src="https://dummyimage.com/vga" class="d-block w-100" alt="..." style="border-radius: 50%;">
-                            <h4 style="text-align: center;">nama produk</h4>
-                            <p style="text-align: center;">deskripsi produk</p>
-                        </div>
-                        <div class="col-md-4">
-                            <img src="https://dummyimage.com/vga" class="d-block w-100" alt="..." style="border-radius: 50%;">
-                            <h4 style="text-align: center;">nama produk</h4>
-                            <p style="text-align: center;">deskripsi produk</p>
+                <div class="col-md-9" style="margin-top: 15px;">
+                    <h2 class="judulTeks" style="border-radius: 20px 20px 0px 0px;background-color: #c3c3c3;padding-top: 16px;padding-bottom: 15px;">Layanan Kami</h2>
+                    <div class="container" id="rcorners5" style="border-radius: 0px 0px 20px 20px;height:71vh; margin: -31px 0px 0px 0px">
+                        <div class="row">
+                            <p style="text-align:center;margin-top:20px;">Bagi kami pelayanan kepada anda adalah hal utama, oleh karena
+                                itu kami memiliki beberapa layanan bagi anda diantaranya : </p>
+                            <div class="col-md-4">
+                                <img src="../sakaindo/assets/SAKAI/Slideshow/2.jpg" class="d-block gambarLayanan center" alt="..." style="border-radius: 50%;width:150px;margin:auto;">
+                                <h4 style="text-align: center;">Layanan 1</h4>
+                                <p style="text-align: center;">deskripsi layanan</p>
+                            </div>
+                            <div class="col-md-4">
+                                <img src="../sakaindo/assets/SAKAI/Slideshow/3.jpg" class="d-block gambarLayanan center" alt="..." style="border-radius: 50%;width:150px;margin:auto;">
+                                <h4 style="text-align: center;">Layanan 2</h4>
+                                <p style="text-align: center;">deskripsi layanan</p>
+                            </div>
+                            <div class="col-md-4">
+                                <img src="../sakaindo/assets/SAKAI/Slideshow/7.jpg" class="d-block gambarLayanan center" alt="..." style="border-radius: 50%;width:150px;margin:auto;">
+                                <h4 style="text-align: center;">Layanan 3</h4>
+                                <p style="text-align: center;">deskripsi layanan</p>
+                            </div>
                         </div>
                     </div>
                 </div>
+
                 <!-- Produk -->
                 <?php include "produk.php" ?>
             </div>
